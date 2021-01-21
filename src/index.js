@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'; //to use jsx grammer
 import ReactDOM from 'react-dom';
-import './index.css';
+import './index.css'; //use css file
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
