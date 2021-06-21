@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Re-ID_with_Openpose Data
-### with React Native
+### with React
 #### We applied the proposed re-identification algorithm system to images acquired from CCTV to evaluate its performance with the results and confirmed that it is possible to re-identify it with Highly accuracy without face information.
 
 The ability to re-identify the same person through CCTV is very critical in tracking down criminals. 
